@@ -1,3 +1,6 @@
 I am local 
 Live I am
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3390a6a1426cb69d6c1c2dd3bf354c0829ece1e6
